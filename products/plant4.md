@@ -1,6 +1,5 @@
 ---
 layout: product
-id: '4'
 description: Maecenas pretium blandit ex id lobortis.
 default_original_image: images/plant4-lg.jpg
 order: 4
