@@ -47,6 +47,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
+    title: Photogra
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
