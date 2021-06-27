@@ -1,7 +1,6 @@
 ---
 layout: product
 description: Maecenas pretium blandit ex id lobortis.
-default_original_image: images/plant4-lg.jpg
 order: 4
 category: category/cactuses.md
 seo:
