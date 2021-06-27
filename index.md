@@ -38,7 +38,7 @@ sections:
           location: 'California, USA'
         text: 'What a cutie, I love this picture.'
       - author:
-          name: Major Payne
+          name: BLANKITA ESTRADA DE ALMEIDA
           location: 'VA, USA'
         text: 'Woou, que precioso se ve mi bebé!!! Hermoso trabajo Norita!'
   - type: promotion_section
