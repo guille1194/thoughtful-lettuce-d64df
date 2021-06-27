@@ -22,7 +22,7 @@ sections:
     featured_products:
       - products/smashcake.md
       - products/newborn.md
-      - products/plant5.md
+      - products/kids.md
       - products/plant7.md
       - products/familyportrait.md
   - type: testimonials_section
