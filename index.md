@@ -35,7 +35,7 @@ sections:
     testimonials:
       - author:
           name: Cinthia judith rios
-          location: 'Colorado, USA'
+          location: 'California, USA'
         text: 'What a cutie, I love this picture.'
       - author:
           name: Major Payne
