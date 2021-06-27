@@ -7,7 +7,7 @@ description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/familydemo.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
-category: category/cactuses.md
+category: category/bigplants.md
 seo:
   title: Integer porta
   description: Suspendisse efficitur eget erat sit amet efficitur
