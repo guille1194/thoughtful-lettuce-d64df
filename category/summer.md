@@ -1,5 +1,4 @@
 ---
-title: Summer plant
 layout: category
 order: 4
 seo:
