@@ -40,7 +40,7 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: 'Woou, que precioso se ve mi bebé'
+        text: 'Woou, que precioso se ve mi bebé!!! Hermoso trabajo Norita!'
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
