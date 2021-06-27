@@ -12,7 +12,7 @@ sections:
       - products/smashcake.md
       - products/newborn.md
       - products/kids.md
-      - products/plant7.md
+      - products/engagement.md
   - type: promotion_section
     section_id: promotion_section
     title: Photography Courses
