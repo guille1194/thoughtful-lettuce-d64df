@@ -5,7 +5,7 @@ price: '150.00'
 title: Newborn
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/newborn demo.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/newborn demo.jpg
 featured: true
 order: 3
 category: category/bigplants.md
