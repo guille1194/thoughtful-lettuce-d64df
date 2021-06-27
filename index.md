@@ -34,7 +34,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: Cinthia judith rios
           location: 'Colorado, USA'
         text: 'What a cutie, I love this picture.'
       - author:
