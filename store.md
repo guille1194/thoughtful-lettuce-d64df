@@ -9,7 +9,7 @@ sections:
     title: Best sellers
     icon: true
     featured_products:
-      - products/plant1.md
+      - products/smashcake.md
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
