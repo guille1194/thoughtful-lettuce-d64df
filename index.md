@@ -39,7 +39,7 @@ sections:
         text: 'What a cutie, I love this picture.'
       - author:
           name: BLANKITA ESTRADA DE ALMEIDA
-          location: 'VA, USA'
+          location: 'california, USA'
         text: 'Woou, que precioso se ve mi bebé!!! Hermoso trabajo Norita!'
   - type: promotion_section
     section_id: promotion_section
