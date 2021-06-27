@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: photography types
 layout: category
 order: 1
 seo:
