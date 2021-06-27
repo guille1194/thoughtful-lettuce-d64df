@@ -36,7 +36,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: 'What a cutie, I love'
+        text: 'What a cutie, I love this picture.'
       - author:
           name: Major Payne
           location: 'VA, USA'
