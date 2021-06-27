@@ -11,7 +11,7 @@ sections:
     featured_products:
       - products/smashcake.md
       - products/newborn.md
-      - products/plant5.md
+      - products/kids.md
       - products/plant7.md
   - type: promotion_section
     section_id: promotion_section
