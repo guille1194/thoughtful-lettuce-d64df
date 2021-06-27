@@ -1,6 +1,5 @@
 ---
 layout: product
-description: Maecenas pretium blandit ex id lobortis.
 order: 4
 category: category/cactuses.md
 seo:
