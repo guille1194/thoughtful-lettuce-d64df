@@ -24,7 +24,7 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
-      - products/plant2.md
+      - products/familyportrait.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
