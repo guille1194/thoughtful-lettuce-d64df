@@ -10,7 +10,7 @@ sections:
     icon: true
     featured_products:
       - products/smashcake.md
-      - products/plant3.md
+      - products/newborn.md
       - products/plant5.md
       - products/plant7.md
   - type: promotion_section
