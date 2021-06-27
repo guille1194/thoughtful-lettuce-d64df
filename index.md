@@ -7,9 +7,8 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |+
-      # Real, beautiful plants right to your door
-
+    content: |
+      # Newborn,  Kids, Engagement and Family Portraits
     actions:
       - title: See all items
         url: /store
