@@ -49,7 +49,7 @@ sections:
       arrow: true
     title: Photography courses
 seo:
-  title: Planty Theme
+  title: AraizasPhotography
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
